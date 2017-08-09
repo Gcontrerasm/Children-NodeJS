@@ -1,2 +1,3 @@
-# Children-NodeJS
-Children
+# children
+
+a [Sails](http://sailsjs.org) application
